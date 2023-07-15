@@ -1,4 +1,7 @@
-# Requisitos mínimos
+# WebP for Prestashop by Yipi.app
+Accept WebP Upload for all Store and convert the current images to webp.
+
+## Requisitos mínimos
 - Prestashop 1.5.0.15 o superior, 1.6.x, 1.7.x o 8.x
 -  PHP 5.6 o superior OBLIGATORIO
 -  Librería de PHP GD compilado para compatibilidad con imágenes WebP OBLIGATORIO
