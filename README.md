@@ -6,7 +6,7 @@ Accept WebP Upload for all Store and convert the current images to webp.
 - PHP 5.6 or higher REQUIRED
 - PHP GD library compiled for compatibility with WebP images REQUIRED
 - PHP FileInfo Library REQUIRED
-- Apache server (it is not compatible with litespeed, it is compatible with Nginx if it works dually with Apache) MANDATORY – THERE IS NO MONEY REFUND IF YOU DO NOT VERIFY THIS CONDITION BEFORE PURCHASE..
+- Apache or litespeed server (it is compatible with Nginx if it works dually with Apache or litespeed) MANDATORY 
 - If your store works dual Nginx+Apache, remove the jpg and jpeg extensions in cpanel for static files served by nginx or, if you can, you should have access to modify the nginx configuration file to add the following configuration:
 In the http block of the config file:
 ```
